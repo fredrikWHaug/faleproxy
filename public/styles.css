@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    background-color: #1e3a8a;
+    background-color: #DC143C;
     color: #fff;
     padding: 1.5rem 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -72,7 +72,7 @@ main {
     height: 50px;
     border: 5px solid rgba(0, 0, 0, 0.1);
     border-radius: 50%;
-    border-top-color: #1e3a8a;
+    border-top-color: #DC143C;
     animation: spin 1s ease-in-out infinite;
     margin-bottom: 1rem;
 }
@@ -96,10 +96,10 @@ main {
 }
 
 #info-bar {
-    background-color: #e0f2fe;
+    background-color: #fee2e2;
     padding: 1rem;
     border-radius: 4px 4px 0 0;
-    border-bottom: 1px solid #bae6fd;
+    border-bottom: 1px solid #fca5a5;
 }
 
 #info-bar p {
